@@ -6,3 +6,5 @@ console.log(p1)
 console.log(p1.nomeCompleto)
 
 p1.comprimentar()
+
+console.log("test")
